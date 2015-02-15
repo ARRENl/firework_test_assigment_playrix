@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Resources>
+	<FreeTypeFonts group="TestGroup" upload="false">
+    <font name="arial" family="arial" size="18" color="255;253;208;0" letterSpacing="0.5">
+			<Effect alpha="0.1" type="shadow" blurX="2" blurY="2" strength="50" angle="0" inner="false" color="0;0;0;255" offset="0"/>
+		</font>
+	</FreeTypeFonts>
+	<Textures>
+    <texture id="Background" path="textures/background.png" group="TestGroup" upload="false"/>
+		<texture id="Launch_red" path="textures/Local/Buttons/launch_red.png" group="TestGroup" upload="false"/>
+		<texture id="Launch_green" path="textures/Local/Buttons/Launch_green.png" group="MainMenu" upload="true"/>
+    
+	</Textures>
+</Resources>
